@@ -1,0 +1,26 @@
+
+                <!-- Footer -->
+                <div class="footer text-muted text-center">
+                  &nbsp;&nbsp;&nbsp; &copy; 2022. <a href="">SIMPKL | by <a href='' title='Informatika' target='_blank'>Informatika.com</a>
+                  </a>
+                </div>
+                <!-- /footer -->
+
+              </div>
+              <!-- /content area -->
+
+          </div>
+          <!-- /main content -->
+
+      </div>
+      <!-- /page content -->
+
+  </div>
+  <!-- /page container -->
+
+
+
+</body>
+
+<!-- Mirrored from demo.interface.club/limitless/layout_2/LTR/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 25 Apr 2022 11:59:08 GMT -->
+</html>
