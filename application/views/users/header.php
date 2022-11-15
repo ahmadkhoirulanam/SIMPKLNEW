@@ -207,7 +207,7 @@ $sub_menu3 = strtolower($this->uri->segment(3));
 								<?php }elseif ($level == 'Siswa'){?>
 												  <li class="<?php if ($sub_menu == "bimbingan_siswa") { echo 'active';}?>"><a href="users/bimbingan_siswa"><i class="icon-envelop5"></i> <span>Bimbingan</span></a></li>
 												  <li class="<?php if ($sub_menu == "nilai_prakerin") { echo 'active';}?>"><a href="users/nilai_prakerin"><i class="icon-star-full2"></i> <span>Nilai PKL</span></a></li>
-												  <li class="<?php if ($sub_menu == "nilai_prakerini") { echo 'active';}?>"><a href="users/surat"><i class="icon-map"></i> <span>Absensi Online</span></a></li>
+												  <li class="<?php if ($sub_menu == "nilai_prakerini") { echo 'active';}?>"><a href="http://localhost/sipkismk/absenPKL/" target="_blank"><i class="icon-map"></i> <span>Absensi Online</span></a></li>
 								<?php } ?>
 
 
